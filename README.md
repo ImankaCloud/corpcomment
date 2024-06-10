@@ -9,7 +9,7 @@ The CorpComment project is a web application that allows users to share and disc
 This project is built with the following technologies:
 
 - React: Used to build the user interface.
-- TypeScript: Used for static typing in the application.
+- TypeScript: Used for logics in the application.
 - Vite: Used as the build tool.
 - ESLint: Used for linting the codebase.
 - Node.js: Used for the backend server.
