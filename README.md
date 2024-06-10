@@ -14,3 +14,5 @@ This project is built with the following technologies:
 - ESLint: Used for linting the codebase.
 - Node.js: Used for the backend server.
 - MongoDB: Used for the database.
+
+![image](https://github.com/ImankaCloud/corpcomment/assets/107856707/c28bbf30-46f4-43e9-a79c-c634b40db8e6)
